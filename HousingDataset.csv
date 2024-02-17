@@ -1,4 +1,4 @@
-,price,area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea,furnishingstatus
+id,price,area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea,furnishingstatus
 109,6090000,6615,4,2,2,yes,yes,no,yes,no,1,no,semi-furnished
 155,5530000,6100,3,2,1,yes,no,yes,no,no,2,yes,furnished
 389,3500000,4600,4,1,2,yes,no,no,no,no,0,no,semi-furnished
